@@ -39,5 +39,5 @@ I am a first-semester Computer Science & Engineering student at **Sir M Visvesva
 ---
 
 ###🤝Connect With Me
-*[**LinkedIn**] (https://www.linkedin.com/in/trisha-d-a82189392?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-*[**Email**] (trishadayanand54@gmail.com)
+* [**LinkedIn**] (https://www.linkedin.com/in/trisha-d-a82189392?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+* [**Email**] (trishadayanand54@gmail.com)
