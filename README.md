@@ -3,6 +3,7 @@
 ### 🚀 Aspiring Software Engineer | CSE Student @ Sir MVIT
 
 **Bridging the gap between Biology roots and AI-Driven Engineering.**
+# 🧬 Code meets Clinical Logic
 
 I am a first-semester Computer Science & Engineering student at **Sir M Visvesvaraya Institute Of Technology** with a unique background. Having transitioned from a *Biology (PUC) background*, I bring a fresh, analytical perspective to the world of technology. I am currently focused on building a rock-solid foundation in computational logic and problem-solving.
 
@@ -18,8 +19,8 @@ I am a first-semester Computer Science & Engineering student at **Sir M Visvesva
 
 ### 🛠️ My Technical Toolkit (In Progress)
 **Core Engineering (Foundations)**
-* 💻**Languages:** Learning C, Python
-* ☁️**Environment:** CodeBlocks, Git/GitHub, Replit
+* 💻**Languages:** Learning C, 
+* ☁️**Environment:** CodeBlocks, Git/GitHub, Replit, CreaoAI , SolidEdge
 
 **AI & Modern Workflow (The "Vibe" Stack)**
 * 🤖**Prompt Engineering:** Utilizing "Vibe Coding" to prototype and iterate rapidly.
@@ -31,10 +32,15 @@ I am a first-semester Computer Science & Engineering student at **Sir M Visvesva
 
 ---
 
-###🔍 Current Mission
+###🔍 Current Mission(In Process)
 * 🏫**Academia:** Mastering Coding, DSAs and Logic Design @ Sir MVIT.
 * 🧬**The Pivot:** Leveraging my background in Life Sciences to bring a fresh perspective to Software Development.
 * ⚡**Vibe Coding:** Explore how LLMs can augment traditional programming to build impactful solutions faster.
+
+---
+
+### 🚀 Key Projects
+- **DhanvaCare (In Progress):** A diagnostic assistant utilizing **Google’s MedGemma (HAI-DEF)** models. Created for ** The GOOGLE MedGemma Impact Challenge 2026 **.
 
 ---
 
