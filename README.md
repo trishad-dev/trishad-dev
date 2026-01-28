@@ -5,7 +5,7 @@
 **Bridging the gap between Biology roots and AI-Driven Engineering.**
 # 🧬 Code meets Clinical Logic
 
-I am a first-semester Computer Science & Engineering student at **Sir M Visvesvaraya Institute Of Technology** with a unique background. Having transitioned from a *Biology (PUC) background*, I bring a fresh, analytical perspective to the world of technology. I am currently focused on building a rock-solid foundation in computational logic and problem-solving.
+I am a first-semester Computer Science & Engineering student at **Sir M Visvesvaraya Institute Of Technology** with a unique background. Having transitioned from a *Biology (PUC) background*, I bring a fresh, analytical perspective to the world of technology. I am currently focused on building a rock-solid foundation in computational logic and problem-solving. 
 
 ---
 
