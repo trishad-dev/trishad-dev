@@ -40,7 +40,7 @@ I am a first-semester Computer Science & Engineering student at **Sir M Visvesva
 ---
 
 ### 🚀 Key Projects
-- **DhanvaCare (In Progress):** A diagnostic assistant utilizing **Google’s MedGemma (HAI-DEF)** models. Created for ** The GOOGLE MedGemma Impact Challenge 2026 **.
+- **DhanvaCare (In Progress):** A diagnostic assistant utilizing **Google’s MedGemma (HAI-DEF)** models. Created for **The GOOGLE MedGemma Impact Challenge 2026**.
 
 ---
 
